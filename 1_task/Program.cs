@@ -1,11 +1,11 @@
 ﻿
-int a = 2;
-int b = 5;
+int a = - 2;
+int b = - 5;
 if(a > b)
 {
-    Console.WriteLine("a больше b");
+    Console.WriteLine("max = a ");
 }
 else
 {
-    Console.WriteLine("b больше a");
+    Console.WriteLine("max = b");
 }
